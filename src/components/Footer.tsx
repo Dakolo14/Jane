@@ -11,7 +11,7 @@ const Footer = () => {
             {/* Left Section - Contact Information */}
             <div className="space-y-6">
               <h2 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                Let's connect and chat
+                Let&apos;s connect and chat
               </h2>
               <div className="flex items-center space-x-4">
                 <span className="text-xl font-medium text-gray-700">email@jane.com</span>
